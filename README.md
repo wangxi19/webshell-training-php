@@ -121,7 +121,7 @@ so shell.<<< is converted to shell.***
 
 ### 6. 黑名单, 并且随机生成文件名
 
-使用空白符绕过. 如 `webshell.php `
+使用空白符绕过. 如 `"webshell.php "`
 
 ### 7. 黑名单
 
